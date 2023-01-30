@@ -1,5 +1,8 @@
 School-project-2022-2023 (coding with my friend "Ziad Hamed")
 
+First, to open the program, click(Capstone Program\bin\Debug\net7.0-windows). You should download net framework 7 to be able to open the program. You can download it from this link:
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-7.0.2-windows-x64-installer?cid=getdotnetcore
+
 This project is composed of two sections. First, the data
 collection section, which uses high-accurate sensors to monitor CO₂ levels, Total
 Dissolved Solids (TDS), and temperature within the Sea. The second section is
